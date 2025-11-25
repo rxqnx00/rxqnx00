@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**rxqnx00/rxqnx00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ryan, and I am currently a **Statistics and Data Science Major** at **UCLA**. 
 
-Here are some ideas to get you started:
+🔍 Interested in: Machine Learning, Data Science, Control Systems, Statistical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+**Languages:**  
+Python • R  • SQL • Java 
+
+## 📫 Contact Me 
+💼 LinkedIn: https://www.linkedin.com/in/ryan-yoo/
+
+---
+
+Thanks for visiting! Feel free to explore my repos or connect 👇  
+⭐ *If you like any of my work, don't hesitate to star it!*
