@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-My name is Ryan, and I am currently a **Statistics and Data Science Major** at **UCLA**. 
+My name is Ryan, and I am currently a **Statistics and Data Science Major** at **UCLA**.
 
-🔍 Interested in: Machine Learning, Data Science, Statistical Modeling
+🔎 Interested in: Machine Learning, Data Science, Statistica Modeling
+
 ---
 ## 🧰 Tech Stack
+
 **Languages:** Python • R  • SQL • Java 
+
 ---
 ## 🏎️ Selected Projects
 
@@ -20,6 +23,7 @@ My name is Ryan, and I am currently a **Statistics and Data Science Major** at *
 - Preprocessing, annotation, model training, evaluation (F1 ≈ 0.40)  
 - Built for scalable city-level infrastructure inspection
 
+---
 ## 🏅 Achievements
 - 🥉 *3rd Place* – USC IMSC ML Hackathon  
 - 🤝 ExploreCSR @ Google/CPP participant
