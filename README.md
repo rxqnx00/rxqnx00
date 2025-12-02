@@ -2,7 +2,7 @@
 
 My name is Ryan, and I am currently a **Statistics and Data Science Major** at **UCLA**.
 
-🔎 Interested in: Machine Learning, Data Science, Statistica Modeling
+🔎 Interested in: Machine Learning, Data Science, Statistical Modeling
 
 ---
 ## 🧰 Tech Stack
