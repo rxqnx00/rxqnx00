@@ -27,8 +27,7 @@ My name is Ryan, and I am currently a **Statistics and Data Science Major** at *
 ## 🏅 Achievements
 - 🥉 *3rd Place* – USC IMSC ML Hackathon  
 - 🤝 ExploreCSR @ Google/CPP participant
-- 🧮 Math Tutor @ Mathnasium  
-- 💼 Experience as a computer assistant and tax analyst
+- 🧮 Math Tutor @ Mathnasium
 ---
 
 ## 📫 Contact Me
