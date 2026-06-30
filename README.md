@@ -18,7 +18,7 @@ My name is Ryan, and I am currently a **Statistics and Data Science Major** at *
 - Markov chain simulation & stationary distribution analysis  
 - GAMs for nonlinear model behavior (Stats coursework)
 
-### 🛣️ **Road Damage Detection (Hackathon — 3rd Place @ USC IMSC)**
+### 🛣️ [**Road Damage Detection](https://github.com/2025IMSC-Hackathon-CRACKPINK/Road-Damage-Detection) (Hackathon — 3rd Place @ USC IMSC)**
 - YOLO-based object detection with 6,000+ images  
 - Preprocessing, annotation, model training, evaluation (F1 ≈ 0.40)  
 - Built for scalable city-level infrastructure inspection
