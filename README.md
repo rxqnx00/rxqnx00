@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ryan, and I am a **UCLA alumni**, graduated in **B.S. in Statistics & Data Science**.
+My name is Ryan, and I am a **UCLA alumni**, graduated with **B.S. in Statistics & Data Science**.
 
 🔎 Interested in: Machine Learning, Data Science, Data Analyst, Statistical Modeling
 
