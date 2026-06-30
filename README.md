@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Ryan, and I am currently a **Statistics and Data Science Major** at **UCLA**.
+My name is Ryan, and I am a **UCLA alumni**, graduated in **B.S. in Statistics & Data Science**.
 
-🔎 Interested in: Machine Learning, Data Science, Statistical Modeling
+🔎 Interested in: Machine Learning, Data Science, Data Analyst, Statistical Modeling
 
 ---
 ## 🧰 Tech Stack
