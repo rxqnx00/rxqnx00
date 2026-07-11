@@ -12,13 +12,13 @@ My name is Ryan, and I am a **UCLA alumni**, graduated with **B.S. in Statistics
 ---
 ## 🏎️ Selected Projects
 
-### 📊 **Data Science Projects**
+### 📊 Data Science Projects
 - Housing cost + homelessness trends in Koreatown (regression + demographics)  
 - KNN regression visualizations & bias-variance exploration  
 - Markov chain simulation & stationary distribution analysis  
 - GAMs for nonlinear model behavior (Stats coursework)
 
-### 🛣️ [**Road Damage Detection](https://github.com/2025IMSC-Hackathon-CRACKPINK/Road-Damage-Detection) (Hackathon — 3rd Place @ USC IMSC)**
+### 🛣️ **[Road Damage Detection](https://github.com/2025IMSC-Hackathon-CRACKPINK/Road-Damage-Detection) (Hackathon — 3rd Place @ USC IMSC)**
 - YOLO-based object detection with 6,000+ images  
 - Preprocessing, annotation, model training, evaluation (F1 ≈ 0.40)  
 - Built for scalable city-level infrastructure inspection
